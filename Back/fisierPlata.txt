@@ -1,0 +1,16 @@
+FOOD Cumparaturi Lidl 1 200.0
+FOOD Cumparaturi Lidl 2 300.0
+UTILITIES ELECTRICITATE 300.0
+UTILITIES APA CALDA 201.3
+TRANSPORT ABONAMENT 80.0
+UTILITIES GAZE 54.34
+ENTERTAINMENT Stand-Up Comedy Special Edition 1 200.0
+ENTERTAINMENT Stand-Up Comedy Special Edition 1 200.0
+ENTERTAINMENT Stand-Up Comedy Special Edition 1 200.0
+ENTERTAINMENT Stand-Up Comedy Special Edition 1 200.0
+ENTERTAINMENT Stand-Up Comedy Special Edition 1 200.0
+ENTERTAINMENT Stand-Up Comedy Special Edition 1 200.0
+ENTERTAINMENT Stand-Up Comedy Special Edition 1 200.0
+ENTERTAINMENT Stand-Up Comedy Special Edition 1 200.0
+ENTERTAINMENT Stand-Up Comedy Special Edition 1 200.0
+ENTERTAINMENT Stand-Up Comedy Special Edition 1 200.0
